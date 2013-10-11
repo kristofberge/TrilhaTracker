@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TrilhaTracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="StartTracking">Start Tracking</string>
+    <string name="StopTracking">Stop Tracking</string>
+    <string name="StatusTracking">Tracking trilha </string>
+    <string name="StatusReady">Ready to track.</string>
+    <string name="PauseButton">Pause Tracking</string>
+    <string name="ResumeButton">Resume Tracking</string>
+    <string name="StatusPaused">Tracking Paused</string>
+
+</resources>
